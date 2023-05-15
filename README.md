@@ -7,5 +7,5 @@
 В данном проекте применялись такие технологи как: система БЭМ, flexbox, grid-layout, псевдоклассы.
 
 **Ссылка на проект**
-https://github.com/IuliiaBoldyreva/russian-travel.git
+ https://iuliiaboldyreva.github.io/project_russia-travel/
 

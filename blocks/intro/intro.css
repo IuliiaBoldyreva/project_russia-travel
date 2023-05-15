@@ -3,7 +3,7 @@
     flex-direction: column;
     align-self: self-start;
     text-align: left;
-    font-family: 'Inter';
+    font-family: 'Inter', Arial, sans-serif;
     max-width: 690px;
     box-sizing: border-box;
     padding-left: 148px;
